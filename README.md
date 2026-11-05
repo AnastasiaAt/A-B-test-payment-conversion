@@ -2,7 +2,7 @@
 
 **Product Analytics · A/B Testing · Python · Pandas · SciPy · Statsmodels**
 
-[![Открыть в Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnastasiaAt/A-B-test_payment_conversion/blob/main/ab_test_payment_conversion.ipynb)
+[![Открыть в Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnastasiaAt/A-B-test-payment-conversion/blob/main/ab_test_payment_conversion.ipynb)
 
 > **Задача:** проверить, увеличивает ли упрощённое автозаполнение реквизитов долю успешных оплат ЖКХ, и подготовить рекомендацию по внедрению новой формы.
 >
